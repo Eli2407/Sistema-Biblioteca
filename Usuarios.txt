@@ -1,0 +1,4 @@
+Juan,2501,Bibliotecario,juan@gmail.com,2501
+Andres,1402,Bibliotecario,andres@gmail.com,1402
+Sofia,1017,Lector,natalia@gmail.com,1017
+Petter,3014,lector,petter@gmail.com,2014
